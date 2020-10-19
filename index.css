@@ -1,0 +1,23 @@
+.black{
+    background-color: white;
+    color: black;
+    border-color: black;
+    width: 100px;
+    height: 50px;
+}
+.black:hover{
+    background-color: black;
+    color: white;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    color: green !important;
+    font-size: 30px !important;
+}
+.grey{
+    color: grey;
+}
