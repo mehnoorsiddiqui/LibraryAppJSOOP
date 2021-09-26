@@ -1,4 +1,3 @@
-console.log("dnfafdja");
 //Constructor
 function Book(name, author, type) {
     this.name = name;
